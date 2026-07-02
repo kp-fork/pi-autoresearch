@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.6.1] - 2026-07-02
+
 ### Fixed
 
 - Redirected `workingDir` logs no longer auto-activate autoresearch in unrelated pi sessions.
