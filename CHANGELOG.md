@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Changed
+
+- Raised the autoresearch auto-resume ceiling from 20 to 200 turns, while adding a stuck-loop override that stops auto-resume after more than 20 consecutive `discard` or `crash` results in the current segment.
+
 ## [1.6.1] - 2026-07-02
 
 ### Fixed
